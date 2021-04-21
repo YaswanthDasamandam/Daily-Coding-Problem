@@ -11,6 +11,6 @@ For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 
 Bonus: Can you do this in one pass?
 
-[Solution](/problem_001.ipynb)
+[Solution](https://github.com/dysai1234/Daily-Coding-Problem/blob/master/problem001.ipynb)
 
 ---
