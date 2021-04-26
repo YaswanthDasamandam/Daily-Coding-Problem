@@ -66,3 +66,17 @@ The second line contains  space-separated integers, each a value of arr[i]
 [Solution](https://github.com/dysai1234/Daily-Coding-Problem/blob/master/problem004.ipynb)
 
 ---
+#### Problem 8
+
+Given two singly linked lists that intersect at some point, find the intersecting node. The lists are non-cyclical.
+
+For example, given A = 3 -> 7 -> 8 -> 10 and B = 99 -> 1 -> 8 -> 10, return the node with value 8.
+
+In this example, assume nodes with the same value are the exact same node objects.
+
+Do this in O(M + N) time (where M and N are the lengths of the lists) and constant space
+
+[Solution](https://github.com/dysai1234/Daily-Coding-Problem/blob/master/problem008.ipynb)
+
+---
+
