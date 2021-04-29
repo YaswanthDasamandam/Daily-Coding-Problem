@@ -99,6 +99,7 @@ Given three 32-bit integers x, y, and b, return x if b is 1 and y if b is 0, usi
 #### Problem 11
 
 Let's define a "sevenish" number to be one which is either a power of 7, or the sum of unique powers of 7. The first few sevenish numbers are 1, 7, 8, 49, and so on. Create an algorithm to find the nth sevenish number.
+
 [Solution](https://github.com/dysai1234/Daily-Coding-Problem/blob/master/problem011.ipynb)
 
 ---
