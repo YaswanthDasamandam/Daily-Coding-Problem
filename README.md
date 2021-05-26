@@ -103,4 +103,11 @@ Let's define a "sevenish" number to be one which is either a power of 7, or the 
 [Solution](https://github.com/dysai1234/Daily-Coding-Problem/blob/master/problem011.ipynb)
 
 ---
+#### Problem 13
+
+Given an undirected graph G, check whether it is bipartite. Recall that a graph is bipartite if its vertices can be divided into two independent sets, U and V, such that no edge connects vertices of the same set.
+
+[Solution](https://github.com/dysai1234/Daily-Coding-Problem/blob/master/problem013.ipynb)
+
+---
 
