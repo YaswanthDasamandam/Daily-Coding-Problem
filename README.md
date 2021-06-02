@@ -110,4 +110,11 @@ Given an undirected graph G, check whether it is bipartite. Recall that a graph 
 [Solution](https://github.com/dysai1234/Daily-Coding-Problem/blob/master/problem013.ipynb)
 
 ---
+#### Problem 14
+
+You will be given a  matrix  of integers in the inclusive range . We can convert any digit  to any other digit  in the range  at cost of . Given , convert it into a magic square at minimal cost. Print this cost on a new line.
+
+[Solution](https://github.com/dysai1234/Daily-Coding-Problem/blob/master/problem014.ipynb)
+
+---
 
